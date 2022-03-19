@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/saarku/saarku.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-[editor on GitHub] https://skuzi.github.io/papers/Help_Me_Search_SIGIR2019.pdf
+[editor on GitHub](https://saarku.github.io/papers/Help_Me_Search_SIGIR2019.pdf)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
