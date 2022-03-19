@@ -1,4 +1,3 @@
-## Saar Kuzi, Ph.D.
 [LinkedIn](https://www.linkedin.com/in/saar-kuzi-466bb867/) | [Google Scholar](https://scholar.google.com/citations?user=-JdH_RMAAAAJ&hl=en&oi=ao)
 
 I am an Applied Scientist at Amazon. I hold a Ph.D. in the Computer Science from the University of Illinois at Urbana-Champaign, where I was advised by Prof. ChengXiang Zhai. My research interests include information retrieval, text data mining, natural language processing, and machine learning.
