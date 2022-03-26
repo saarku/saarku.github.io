@@ -37,3 +37,14 @@ Leveraging Semantic and Lexical Matching to Improve the Recall of Document Retri
 Ph.D. Thesis: Accelarating Scientific Research in the Digital Era: Intelligent Assessment and Retrieval of Research Content. [pdf](https://saarku.github.io/papers/phd_thesis.pdf)
 
 M.Sc. Thesis: Discriminative Query Models. [pdf](https://saarku.github.io/papers/ms_thesis.pdf)
+
+### Resources
+[[demo]](https://figuresearch.web.illinois.edu/)  Figure Search Engine: a system for the searching exploration of research article figures.
+
+[[toolkit]arc](https://github.com/saarku/fig-explorer)  FigExplorer toolkit</a>: an open-source library for figure search and mining.
+
+[dataset](http://figuredata.web.illinois.edu/)  Figures Dataset: a data set for evaluating figure retrieval systems.
+
+[toolkit](https://github.com/saarku/academic-search)  Search Engine demo toolkit: an open-source library for building a web-application search engine with Lucene and Flask.
+
+[dataset](http://aclanthology.web.illinois.edu/)  ACL Anthology UIUC Corpus: a collection of 40,367 NLP papers with information such as paper text, tables, figures, and citations.
